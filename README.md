@@ -1,5 +1,5 @@
 # Todo-React-native-app
-A simple productivity app using Expo for Andriod and IOS &amp; React Native
+A simple productivity app using Expo &amp; React Native for Andriod and IOS
 
 ## Functionality: 
 
